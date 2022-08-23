@@ -10,6 +10,7 @@ body {
     --lz-color-white: #fff;
     --lz-color-black: #000;
     --lz-color-text: #ffffff;
+    --lz-color-btn-text: #282828;
 
     --lz-color-sidebar-label-bg: #3a4867;
     --lz-color-sidebar-border: rgba(128, 128, 128, 0.2);
